@@ -1,46 +1,49 @@
-### Hi there <img src="https://raw.githubusercontent.com/Smithienious/Smithienious/master/assets/wave.gif" width="30px">
+# Hi there <img src="https://raw.githubusercontent.com/Smithienious/Smithienious/master/assets/wave.gif" width="30px">
 
 My name is Hoang and I'm a computer science under-graduate.
 I'm from Vietnam, studying at Ho Chi Minh University of Technology and currently working on some side projects.
-You can contact me via [![Facebook][1.2]][1], [![Mail][2.2]][2], [![Steam][3.2]][3] or on [![LinkedIn][4.2]][4] and [![Twitter][5.2]][5].
+I am most active on [![Facebook][1.2]][1], but you can also contact me via [![Mail][2.2]][2].
+
+<!-- You can contact me via [![Facebook][1.2]][1], [![Mail][2.2]][2], [![Steam][3.2]][3] or on [![LinkedIn][4.2]][4] and [![Twitter][5.2]][5]. -->
 
 * 🌱 I’m currently learning everything 🤣
 * 🥅 2021 Goals:
-  - ✅ Contribute to some open source projects
+  * ✅ Contribute to some open source projects
+  * Learn Functional Programming
 
 ## 🔧 Technologies & Tool
+
+### 👇 I enjoy working with these
 
 ![C++](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
 ![C#](https://img.shields.io/badge/-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)
 ![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
-
-![Windows](https://img.shields.io/badge/-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
-![Linux](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=A81D33)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
+![Bash](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
 ![Zsh](https://img.shields.io/badge/-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
-![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![Git](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
+![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
+![Linux](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=A81D33)
+![Windows](https://img.shields.io/badge/-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
 
-<details><summary>😅 Stuffs I know thanks to schoolwork</summary>
+### 😅 Extra stuffs I know thanks to schoolwork
 
 ![LaTeX](https://img.shields.io/badge/-Latex-informational?style=flat&logo=latex&logoColor=white&color=008080)
-![MATLAB](https://img.shields.io/badge/-MATLAB-informational?style=flat&logo=mathworks&logoColor=white&color=DD1100)
+![Haskell](https://img.shields.io/badge/-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=5D4F85)
 ![MIPS Assembly](https://img.shields.io/badge/-MIPS%20Assembly-informational?style=flat&logo=mips&logoColor=white&color=009DAA)
-<!-- ![Haskell](https://img.shields.io/badge/-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=5D4F85) -->
-<!-- ![R](https://img.shields.io/badge/-R-informational?style=flat&logo=r&logoColor=white&color=276DC3) -->
-</details>
+![MATLAB](https://img.shields.io/badge/-MATLAB-informational?style=flat&logo=mathworks&logoColor=white&color=DD1100)
+![R](https://img.shields.io/badge/-R-informational?style=flat&logo=r&logoColor=white&color=276DC3)
 
-<details><summary>💪 Things I will learn</summary>
+### 💪 Things I want to learn
 
 ![Typescript](https://img.shields.io/badge/-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=CC2927)
 ![F#](https://img.shields.io/badge/-F%23-informational?style=flat&logo=f-sharp&logoColor=white&color=239120)
 ![Rust](https://img.shields.io/badge/-Rust-informational?style=flat&logo=rust&logoColor=white&color=black)
 ![PHP](https://img.shields.io/badge/-PHP-informational?style=flat&logo=php&logoColor=white&color=777BB4)
-![Bash](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
 ![VHDL](https://img.shields.io/badge/-VHDL-informational?style=flat&logo=vhdl&logoColor=white&color=009DAA)
-</details>
 
 ## &#x1f4c8; GitHub Stats
 
@@ -69,7 +72,6 @@ You can contact me via [![Facebook][1.2]][1], [![Mail][2.2]][2], [![Steam][3.2]]
 [4.2]: https://raw.githubusercontent.com/Smithienious/Smithienious/master/assets/linkedin.png
 [5.2]: https://raw.githubusercontent.com/Smithienious/Smithienious/master/assets/twitter.png
 
-
 <!-- links to your social media accounts -->
 
 [1]: https://www.facebook.com/hoang.nguyen.bigunit/
@@ -78,7 +80,6 @@ You can contact me via [![Facebook][1.2]][1], [![Mail][2.2]][2], [![Steam][3.2]]
 [4]: https://www.linkedin.com/in/smithienious/
 [5]: https://twitter.com/Smithienious/
 [6]: https://github.com/Smithienious/
-
 
 <!-- Resources -->
 <!-- Icons: https://simple-icons.github.io/simple-icons-website/ -->
