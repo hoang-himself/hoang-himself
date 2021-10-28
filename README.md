@@ -51,12 +51,6 @@ I am most active on [![Facebook][1.2]][1], but you can also contact me via [![Ma
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Smithienious&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Smithienious's GitHub Stats" />
 </a>
 
-<details><summary>Counter(s)</summary>
-
-![](https://komarev.com/ghpvc/?username=smithienious)
-
-</details>
-
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
