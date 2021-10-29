@@ -9,11 +9,8 @@ I am most active on [![Facebook][1.2]][1], but you can also contact me via [![Ma
 * 🌱 I’m currently learning everything 🤣
 * 🥅 2021 Goals:
   * ✅ Contribute to some open source projects
-  * Learn Functional Programming
 
 ## 🔧 Technologies & Tool
-
-### 👇 I enjoy working with these
 
 ![C++](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
 ![C#](https://img.shields.io/badge/-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)
@@ -44,6 +41,9 @@ I am most active on [![Facebook][1.2]][1], but you can also contact me via [![Ma
 ![Rust](https://img.shields.io/badge/-Rust-informational?style=flat&logo=rust&logoColor=white&color=black)
 ![PHP](https://img.shields.io/badge/-PHP-informational?style=flat&logo=php&logoColor=white&color=777BB4)
 ![VHDL](https://img.shields.io/badge/-VHDL-informational?style=flat&logo=vhdl&logoColor=white&color=009DAA)
+<a href="https://gitmoji.dev">
+  <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
+</a>
 
 ## &#x1f4c8; GitHub Stats
 
