@@ -1,26 +1,63 @@
 # Hi there <img src="https://raw.githubusercontent.com/Smithienious/Smithienious/master/assets/wave.gif" width="30px">
 
 My name is Hoang and I'm a computer science under-graduate.
-I'm from Vietnam, studying at Ho Chi Minh University of Technology and currently working on some side projects.
+I'm from Vietnam, studying at Ho Chi Minh University of Technology.
+My current target is to become a dotNET developer.
 I am most active on [![Facebook][1.2]][1], but you can also contact me via [![Mail][2.2]][2].
 
-<!-- You can contact me via [![Facebook][1.2]][1], [![Mail][2.2]][2], [![Steam][3.2]][3] or on [![LinkedIn][4.2]][4] and [![Twitter][5.2]][5]. -->
+Some other places where you can find me:
 
-* 🌱 I’m currently learning everything 🤣
-* 🥅 2021 Goals:
-  * ✅ Contribute to some open source projects
+- [![LinkedIn][4.2]][4] (WIP)
+- [![Twitter][5.2]][5]
+- [![Steam][3.2]][3]
+
+🥅 2022 goals in no particular order:
+
+- [x] Contribute to some open source projects
+- [x] Use cron
+- Learn:
+  - [x] CI/CD: GitHub Actions, Jenkins, CircleCI
+  - [ ] Buildkit
+  - [ ] Multistage build
+  - [ ] VSCode: launch.json and tasks.json
+  - [ ] Use both ENTRYPOINT and CMD in Dockerfile
+  - [ ] Terminal multiplexers: GNU Screen, Tmux, Byobu
+  - [ ] Golang
+  - [ ] Rust
+  - [ ] Typescript
+  - [ ] Frontend (Yes, I mainly do backend)
+  - [ ] [Build, release, run](https://12factor.net/build-release-run)
+  - [ ] F#
+- Try:
+  - [ ] Watchtower
+  - [ ] Layer 7 proxy: Ngnix Proxy Manager, Traefik, HAProxy
+  - [ ] Docker Swarm, K3s, K8s
+  - [ ] Microsoft SQL Server
+  - [ ] [P4](https://p4.org/)
+  - [ ] [FreeRTOS](https://www.freertos.org/)
+  - [ ] VHDL
+- Maybe not this year:
+  - [ ] Get any of these certificates: MOS, CCNA, CCNP, VCA
+  - [ ] Get any certificate from CompTIA
 
 ## 🔧 Technologies & Tool
 
-![C++](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
-![C#](https://img.shields.io/badge/-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)
 ![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
-![Bash](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
-![Zsh](https://img.shields.io/badge/-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
+![C++](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
+<!-- ![C#](https://img.shields.io/badge/-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120) -->
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
+![Zsh](https://img.shields.io/badge/-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
+![PowerShell](https://img.shields.io/badge/-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=5391FE)
+![Bash](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
+
 ![Git](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
+<!-- <a href="https://gitmoji.dev">
+  <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
+</a> -->
+
 ![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 ![Linux](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=A81D33)
 ![Windows](https://img.shields.io/badge/-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
@@ -29,21 +66,9 @@ I am most active on [![Facebook][1.2]][1], but you can also contact me via [![Ma
 
 ![LaTeX](https://img.shields.io/badge/-Latex-informational?style=flat&logo=latex&logoColor=white&color=008080)
 ![Haskell](https://img.shields.io/badge/-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=5D4F85)
-![MIPS Assembly](https://img.shields.io/badge/-MIPS%20Assembly-informational?style=flat&logo=mips&logoColor=white&color=009DAA)
-![MATLAB](https://img.shields.io/badge/-MATLAB-informational?style=flat&logo=mathworks&logoColor=white&color=DD1100)
-![R](https://img.shields.io/badge/-R-informational?style=flat&logo=r&logoColor=white&color=276DC3)
-
-### 💪 Things I want to learn
-
-![Typescript](https://img.shields.io/badge/-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
-![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=CC2927)
-![F#](https://img.shields.io/badge/-F%23-informational?style=flat&logo=f-sharp&logoColor=white&color=239120)
-![Rust](https://img.shields.io/badge/-Rust-informational?style=flat&logo=rust&logoColor=white&color=black)
-![PHP](https://img.shields.io/badge/-PHP-informational?style=flat&logo=php&logoColor=white&color=777BB4)
-![VHDL](https://img.shields.io/badge/-VHDL-informational?style=flat&logo=vhdl&logoColor=white&color=009DAA)
-<a href="https://gitmoji.dev">
-  <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
-</a>
+<!-- ![MIPS Assembly](https://img.shields.io/badge/-MIPS%20Assembly-informational?style=flat&logo=mips&logoColor=white&color=009DAA) -->
+<!-- ![MATLAB](https://img.shields.io/badge/-MATLAB-informational?style=flat&logo=mathworks&logoColor=white&color=DD1100)
+![R](https://img.shields.io/badge/-R-informational?style=flat&logo=r&logoColor=white&color=276DC3) -->
 
 ## &#x1f4c8; GitHub Stats
 
