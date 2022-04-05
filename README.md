@@ -6,7 +6,7 @@ I am always available on [![Facebook][1.2]][1], but you can also contact me via 
 Some other places where you can find me:
 
 - [![LinkedIn][4.2]][4] (WIP)
-- [![Twitter][5.2]][5]
+- [![Stack Overflow][6.2]][6]
 - [![Steam][3.2]][3]
 
 🥅 2022 goals in no particular order:
@@ -87,6 +87,7 @@ Some other places where you can find me:
 [3.2]: ./assets/steam.png
 [4.2]: ./assets/linkedin.png
 [5.2]: ./assets/twitter.png
+[6.2]: ./assets/stack-overflow.png
 
 <!-- links to your social media accounts -->
 
@@ -95,7 +96,7 @@ Some other places where you can find me:
 [3]: https://steamcommunity.com/id/Smithienious/
 [4]: https://www.linkedin.com/in/smithienious/
 [5]: https://twitter.com/Smithienious/
-[6]: https://github.com/Smithienious/
+[6]: https://stackoverflow.com/users/15142953/smithienious
 
 <!-- Resources -->
 <!-- Icons: https://simple-icons.github.io/simple-icons-website/ -->
