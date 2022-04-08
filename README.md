@@ -9,35 +9,6 @@ Some other places where you can find me:
 - [![Stack Overflow][6.2]][6]
 - [![Steam][3.2]][3]
 
-🥅 2022 goals in no particular order:
-
-- [x] Contribute to some open source projects
-- [x] Use cron
-- Learn:
-  - [x] CI/CD: GitHub Actions, Jenkins, CircleCI
-  - [ ] Buildkit
-  - [ ] Multistage build
-  - [ ] VSCode: launch.json and tasks.json
-  - [ ] Use both ENTRYPOINT and CMD in Dockerfile
-  - [ ] Terminal multiplexers: GNU Screen, Tmux, Byobu
-  - [ ] Golang
-  - [ ] Rust
-  - [ ] Typescript
-  - [ ] Frontend (Yes, I mainly do backend)
-  - [ ] [Build, release, run](https://12factor.net/build-release-run)
-  - [ ] F#
-- Try:
-  - [ ] Watchtower
-  - [ ] Layer 7 proxy: Ngnix Proxy Manager, Traefik, HAProxy
-  - [ ] Docker Swarm, K3s, K8s
-  - [ ] Microsoft SQL Server
-  - [ ] [P4](https://p4.org/)
-  - [ ] [FreeRTOS](https://www.freertos.org/)
-  - [ ] VHDL
-- Maybe not this year:
-  - [ ] Get any of these certificates: MOS, CCNA, CCNP, VCA
-  - [ ] Get any certificate from CompTIA
-
 ## 🔧 Technologies & Tool
 
 ![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
@@ -45,6 +16,7 @@ Some other places where you can find me:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
 <!-- ![C#](https://img.shields.io/badge/-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120) -->
 <!-- ![Typescript](https://img.shields.io/badge/-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6) -->
+<!-- ![Haskell](https://img.shields.io/badge/-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=5D4F85) -->
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![Zsh](https://img.shields.io/badge/-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
@@ -61,11 +33,38 @@ Some other places where you can find me:
 ![Linux](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=A81D33)
 ![Windows](https://img.shields.io/badge/-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
 
-<!-- ![LaTeX](https://img.shields.io/badge/-Latex-informational?style=flat&logo=latex&logoColor=white&color=008080)
-![Haskell](https://img.shields.io/badge/-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=5D4F85) -->
-<!-- ![MIPS Assembly](https://img.shields.io/badge/-MIPS%20Assembly-informational?style=flat&logo=mips&logoColor=white&color=009DAA) -->
-<!-- ![MATLAB](https://img.shields.io/badge/-MATLAB-informational?style=flat&logo=mathworks&logoColor=white&color=DD1100)
-![R](https://img.shields.io/badge/-R-informational?style=flat&logo=r&logoColor=white&color=276DC3) -->
+🥅 2022 goals in no particular order:
+
+- [x] Contribute to some open source projects
+- [x] Use cron
+- Learn:
+  - [x] CI/CD: GitHub Actions
+  - [ ] CI/CD: Jenkins, CircleCI
+  - [ ] Buildkit
+  - [ ] Multistage build
+  - [ ] VSCode: launch.json and tasks.json
+  - [ ] Use both ENTRYPOINT and CMD in Dockerfile
+  - [ ] Terminal multiplexers: GNU Screen, Tmux, Byobu
+  - [ ] Golang
+  - [ ] Rust
+  - [ ] Typescript
+  - [ ] Ruby
+  - [ ] Frontend (Yes, I mainly do backend)
+  - [ ] [Build, release, run](https://12factor.net/build-release-run)
+  - [ ] F#
+  - [ ] Lua
+- Try:
+  - [ ] Buildah, Podman, Skopeo
+  - [ ] Watchtower
+  - [ ] Layer 7 proxy: Ngnix Proxy Manager, Traefik, HAProxy
+  - [ ] Docker Swarm, K3s, K8s
+  - [ ] Microsoft SQL Server
+  - [ ] [P4](https://p4.org/)
+  - [ ] [FreeRTOS](https://www.freertos.org/)
+  - [ ] VHDL
+- Maybe not this year:
+  - [ ] Get any of these certificates: MOS, CCNA, CCNP, VCA
+  - [ ] Get any certificate from CompTIA
 
 ## &#x1f4c8; GitHub Stats
 
