@@ -38,26 +38,25 @@ Some other places where you can find me:
 - [x] Contribute to some open source projects
 - [x] Use cron
 - Learn:
-  - [x] CI/CD: GitHub Actions
-  - [ ] CI/CD: Jenkins, CircleCI
-  - [ ] Buildkit
+  - [x] CI/CD
+  - [ ] Docker Buildkit
   - [ ] Multistage build
   - [ ] VSCode: launch.json and tasks.json
   - [ ] Use both ENTRYPOINT and CMD in Dockerfile
   - [ ] Terminal multiplexers: GNU Screen, Tmux, Byobu
-  - [ ] Golang
-  - [ ] Rust
-  - [ ] Typescript
-  - [ ] Ruby
   - [ ] Frontend (Yes, I mainly do backend)
   - [ ] [Build, release, run](https://12factor.net/build-release-run)
+  - [ ] Golang
   - [ ] F#
+  - [ ] Typescript
+  - [ ] Ruby
+  - [ ] Rust
   - [ ] Lua
 - Try:
-  - [ ] Buildah, Podman, Skopeo
-  - [ ] Watchtower
-  - [ ] Layer 7 proxy: Ngnix Proxy Manager, Traefik, HAProxy
+  - [ ] Buildah, Podman, Skopeo, Moby BuildKit
   - [ ] Docker Swarm, K3s, K8s
+  - [ ] Layer 7 proxy: Ngnix Proxy Manager, Traefik, HAProxy
+  - [ ] Watchtower
   - [ ] Microsoft SQL Server
   - [ ] [P4](https://p4.org/)
   - [ ] [FreeRTOS](https://www.freertos.org/)
