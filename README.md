@@ -39,11 +39,13 @@ Some other places where you can find me:
 - [x] Use cron
 - Learn:
   - [x] CI/CD
-  - [ ] Docker Buildkit
+  - [x] VSCode: launch.json and tasks.json
+  - [x] Use both ENTRYPOINT and CMD in Dockerfile
+  - [ ] Docker BuildKit
+  - [ ] Docker Buildx
   - [ ] Multistage build
-  - [ ] VSCode: launch.json and tasks.json
-  - [ ] Use both ENTRYPOINT and CMD in Dockerfile
   - [ ] Terminal multiplexers: GNU Screen, Tmux, Byobu
+  - [ ] Minikube, K3s, K8s, Docker Swarm
   - [ ] Frontend (Yes, I mainly do backend)
   - [ ] [Build, release, run](https://12factor.net/build-release-run)
   - [ ] Golang
@@ -54,7 +56,6 @@ Some other places where you can find me:
   - [ ] Lua
 - Try:
   - [ ] Buildah, Podman, Skopeo, Moby BuildKit
-  - [ ] Docker Swarm, K3s, K8s
   - [ ] Layer 7 proxy: Ngnix Proxy Manager, Traefik, HAProxy
   - [ ] Watchtower
   - [ ] Microsoft SQL Server
@@ -62,8 +63,7 @@ Some other places where you can find me:
   - [ ] [FreeRTOS](https://www.freertos.org/)
   - [ ] VHDL
 - Maybe not this year:
-  - [ ] Get any of these certificates: MOS, CCNA, CCNP, VCA
-  - [ ] Get any certificate from CompTIA
+  - [ ] Get any these certificate about: MOS, CCNA, CCNP, VCA, CompTIA
 
 ## &#x1f4c8; GitHub Stats
 
