@@ -36,7 +36,6 @@ Some other places where you can find me:
 🥅 2022 goals in no particular order:
 
 - [x] Contribute to some open source projects
-- [x] Use cron
 - Learn:
   - [x] CI/CD
   - [x] VSCode: launch.json and tasks.json
@@ -44,24 +43,25 @@ Some other places where you can find me:
   - [ ] Docker BuildKit
   - [ ] Docker Buildx
   - [ ] Multistage build
-  - [ ] Terminal multiplexers: GNU Screen, Tmux, Byobu
+  - [ ] Microservice, process thinking model, service discovery
   - [ ] Minikube, K3s, K8s, Docker Swarm
-  - [ ] Frontend (Yes, I mainly do backend)
-  - [ ] [Build, release, run](https://12factor.net/build-release-run)
+  - [ ] C#
+  - [ ] Frontend, web (Yes, I mainly do backend)
+  - [ ] Web crawler
+  - [ ] Progressive web app
   - [ ] Golang
+  - [ ] Terminal multiplexers: GNU Screen, Tmux, Byobu
   - [ ] F#
   - [ ] Typescript
   - [ ] Ruby
   - [ ] Rust
   - [ ] Lua
 - Try:
+  - [ ] Mermaidjs
   - [ ] Buildah, Podman, Skopeo, Moby BuildKit
   - [ ] Layer 7 proxy: Ngnix Proxy Manager, Traefik, HAProxy
-  - [ ] Watchtower
-  - [ ] Microsoft SQL Server
   - [ ] [P4](https://p4.org/)
   - [ ] [FreeRTOS](https://www.freertos.org/)
-  - [ ] VHDL
 - Maybe not this year:
   - [ ] Get any these certificate about: MOS, CCNA, CCNP, VCA, CompTIA
 
