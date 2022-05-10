@@ -3,6 +3,8 @@
 My name is Hoang and I'm a 3rd year computer science student at Ho Chi Minh University of Technology.
 I am always available on [![Facebook][1.2]][1], but you can also contact me via [![Mail][2.2]][2].
 
+See my CV [here](./cv1/resume.pdf)
+
 Some other places where you can find me:
 
 - [![LinkedIn][4.2]][4] (WIP)
@@ -19,19 +21,20 @@ Some other places where you can find me:
 <!-- ![Haskell](https://img.shields.io/badge/-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=5D4F85) -->
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
-![Zsh](https://img.shields.io/badge/-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=5391FE)
 ![Bash](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
 
 ![Git](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
+![Heroku](https://img.shields.io/badge/-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)
 <a href="https://gitmoji.dev">
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
 </a>
 
 ![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
-![Linux](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=A81D33)
 ![Windows](https://img.shields.io/badge/-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
+![Fedora](https://img.shields.io/badge/-Fedora-informational?style=flat&logo=fedora&logoColor=white&color=51A2DA)
+![Debian](https://img.shields.io/badge/-Debian-informational?style=flat&logo=debian&logoColor=white&color=A81D33)
 
 🥅 2022 goals in no particular order:
 
@@ -49,7 +52,7 @@ Some other places where you can find me:
   - [ ] Frontend, web (Yes, I mainly do backend)
   - [ ] Web crawler
   - [ ] Progressive web app
-  - [ ] Golang
+  - [ ] Go
   - [ ] Terminal multiplexers: GNU Screen, Tmux, Byobu
   - [ ] F#
   - [ ] Typescript
@@ -97,7 +100,7 @@ Some other places where you can find me:
 [6]: https://stackoverflow.com/users/15142953/smithienious
 
 <!-- Resources -->
-<!-- Icons: https://simple-icons.github.io/simple-icons-website/ -->
+<!-- Icons: https://simple-icons.github.io/ -->
 <!-- Icons: https://www.flaticon.com/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
