@@ -1,15 +1,12 @@
 # Hi there <img src="./assets/wave.gif" width="30px">
 
 My name is Hoang and I'm a 3rd year computer science student at Ho Chi Minh University of Technology.
-I am always available on [![Facebook][1.2]][1], but you can also contact me via [![Mail][2.2]][2].
+I am always available on [![Facebook][1.1]][1.2], but you can also contact me via [![Mail][2.1]][2.2].
+I also have profiles on [![LinkedIn][3.1]][3.2] and [![Stack Overflow][4.1]][4.2].
 
 See my CV [here](./cv1/resume.pdf)
 
 Some other places where you can find me:
-
-- [![LinkedIn][4.2]][4] (WIP)
-- [![Stack Overflow][6.2]][6]
-- [![Steam][3.2]][3]
 
 ## 🔧 Technologies & Tool
 
@@ -78,26 +75,19 @@ Some other places where you can find me:
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png
-[2.1]: http://i.imgur.com/0o48UoR.png
-
 <!-- icons without padding -->
 
-[1.2]: ./assets/facebook.png
-[2.2]: ./assets/mail-inbox-app.png
-[3.2]: ./assets/steam.png
-[4.2]: ./assets/linkedin.png
-[5.2]: ./assets/twitter.png
-[6.2]: ./assets/stack-overflow.png
+[1.1]: ./assets/facebook.png
+[2.1]: ./assets/mail-inbox-app.png
+[3.1]: ./assets/linkedin.png
+[4.1]: ./assets/stack-overflow.png
 
 <!-- links to your social media accounts -->
 
-[1]: https://www.facebook.com/hoang.nguyen.bigunit/
-[2]: mailto:nhoang3b@gmail.com
-[3]: https://steamcommunity.com/id/Smithienious/
-[4]: https://www.linkedin.com/in/smithienious/
-[5]: https://twitter.com/Smithienious/
-[6]: https://stackoverflow.com/users/15142953/smithienious
+[1.2]: https://www.facebook.com/hoang.nguyen.bigunit/
+[2.2]: mailto:nhoang3b@gmail.com
+[3.2]: https://www.linkedin.com/in/smithienious/
+[4.2]: https://stackoverflow.com/users/15142953/smithienious
 
 <!-- Resources -->
 <!-- Icons: https://simple-icons.github.io/ -->
