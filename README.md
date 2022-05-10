@@ -4,7 +4,7 @@ My name is Hoang and I'm a 3rd year computer science student at Ho Chi Minh Univ
 I am always available on [![Facebook][1.1]][1.2], but you can also contact me via [![Mail][2.1]][2.2].
 I also have profiles on [![LinkedIn][3.1]][3.2] and [![Stack Overflow][4.1]][4.2].
 
-See my CV [here](./cv1/resume.pdf)
+See my resume [here](./cv1/resume.pdf)
 
 Some other places where you can find me:
 
