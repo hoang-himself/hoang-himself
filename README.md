@@ -24,9 +24,6 @@ Some other places where you can find me:
 ![Git](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
 ![Heroku](https://img.shields.io/badge/-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)
-<a href="https://gitmoji.dev">
-  <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
-</a>
 
 ![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 ![Windows](https://img.shields.io/badge/-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
