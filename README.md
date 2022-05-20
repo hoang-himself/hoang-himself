@@ -1,18 +1,16 @@
 # Hi there <img src="./assets/wave.gif" width="30px">
 
 My name is Hoang and I'm a 3rd year computer science student at Ho Chi Minh University of Technology.
+Checkout my profiles on [![LinkedIn][3.1]][3.2] and [![Stack Overflow][4.1]][4.2], as well as  my resume [here](./cv1/resume.pdf)
+
 I am always available on [![Facebook][1.1]][1.2], but you can also contact me via [![Mail][2.1]][2.2].
-I also have profiles on [![LinkedIn][3.1]][3.2] and [![Stack Overflow][4.1]][4.2].
-
-See my resume [here](./cv1/resume.pdf)
-
-Some other places where you can find me:
 
 ## 🔧 Technologies & Tool
 
 ![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
 ![C++](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
+![Redis](https://img.shields.io/badge/-Redis-informational?style=flat&logo=redis&logoColor=white&color=DC382D)
 <!-- ![C#](https://img.shields.io/badge/-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120) -->
 <!-- ![Typescript](https://img.shields.io/badge/-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6) -->
 <!-- ![Haskell](https://img.shields.io/badge/-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=5D4F85) -->
@@ -23,6 +21,7 @@ Some other places where you can find me:
 
 ![Git](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-informational?style=flat&logo=github&logoColor=white&color=181717)
 ![Heroku](https://img.shields.io/badge/-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)
 
 ![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
@@ -37,6 +36,7 @@ Some other places where you can find me:
   - [x] CI/CD
   - [x] VSCode: launch.json and tasks.json
   - [x] Use both ENTRYPOINT and CMD in Dockerfile
+  - [ ] Terminal multiplexers: GNU Screen, Tmux, Byobu
   - [ ] Docker BuildKit
   - [ ] Docker Buildx
   - [ ] Multistage build
@@ -44,14 +44,13 @@ Some other places where you can find me:
   - [ ] Minikube, K3s, K8s, Docker Swarm
   - [ ] C#
   - [ ] Frontend, web (Yes, I mainly do backend)
+  - [ ] Typescript
   - [ ] Web crawler
   - [ ] Progressive web app
   - [ ] Go
-  - [ ] Terminal multiplexers: GNU Screen, Tmux, Byobu
   - [ ] F#
-  - [ ] Typescript
-  - [ ] Ruby
   - [ ] Rust
+  - [ ] Ruby
   - [ ] Lua
 - Try:
   - [ ] Mermaidjs
@@ -81,13 +80,13 @@ Some other places where you can find me:
 
 <!-- links to your social media accounts -->
 
-[1.2]: https://www.facebook.com/hoang.nguyen.bigunit/
+[1.2]: https://www.facebook.com/hoang.himself/
 [2.2]: mailto:nhoang3b@gmail.com
 [3.2]: https://www.linkedin.com/in/smithienious/
 [4.2]: https://stackoverflow.com/users/15142953/smithienious
 
 <!-- Resources -->
-<!-- Icons: https://simple-icons.github.io/ -->
+<!-- Icons: https://simple-icons.github.io/simple-icons-website -->
 <!-- Icons: https://www.flaticon.com/ -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Emojis: https://emojipedia.org/emoji/ -->
