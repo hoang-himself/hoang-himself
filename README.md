@@ -63,8 +63,8 @@ I am always available on [![Facebook][1.1]][1.2], but you can also contact me vi
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Smithienious/Smithienious">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Smithienious&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Smithienious's GitHub Stats" />
+<a href="https://github.com/hoang-himself/hoang-himself">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hoang-himself&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="hoang-himself's GitHub Stats" />
 </a>
 
 <!-- links to social media icons -->
@@ -82,8 +82,8 @@ I am always available on [![Facebook][1.1]][1.2], but you can also contact me vi
 
 [1.2]: https://www.facebook.com/hoang.himself/
 [2.2]: mailto:nhoang3b@gmail.com
-[3.2]: https://www.linkedin.com/in/smithienious/
-[4.2]: https://stackoverflow.com/users/15142953/smithienious
+[3.2]: https://www.linkedin.com/in/hoang-himself/
+[4.2]: https://stackoverflow.com/users/15142953/
 
 <!-- Resources -->
 <!-- Icons: https://simple-icons.github.io/simple-icons-website -->
