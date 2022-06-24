@@ -9,11 +9,10 @@ I am always available on [![Facebook][1.1]][1.2], but you can also contact me vi
 
 ![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
 ![C++](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
 ![Redis](https://img.shields.io/badge/-Redis-informational?style=flat&logo=redis&logoColor=white&color=DC382D)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
 <!-- ![C#](https://img.shields.io/badge/-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120) -->
 <!-- ![Typescript](https://img.shields.io/badge/-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6) -->
-<!-- ![Haskell](https://img.shields.io/badge/-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=5D4F85) -->
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=5391FE)
@@ -36,30 +35,26 @@ I am always available on [![Facebook][1.1]][1.2], but you can also contact me vi
   - [x] CI/CD
   - [x] VSCode: launch.json and tasks.json
   - [x] Use both ENTRYPOINT and CMD in Dockerfile
+  - [ ] Frontend, web (Yes, I mainly do backend)
+  - [ ] Typescript
   - [ ] Terminal multiplexers: GNU Screen, Tmux, Byobu
-  - [ ] Docker BuildKit
-  - [ ] Docker Buildx
-  - [ ] Multistage build
+  - [ ] Progressive web app
   - [ ] Microservice, process thinking model, service discovery
   - [ ] Minikube, K3s, K8s, Docker Swarm
   - [ ] C#
-  - [ ] Frontend, web (Yes, I mainly do backend)
-  - [ ] Typescript
   - [ ] Web crawler
-  - [ ] Progressive web app
   - [ ] Go
   - [ ] F#
   - [ ] Rust
-  - [ ] Ruby
-  - [ ] Lua
 - Try:
+  - [x] Layer 7 proxy: Ngnix Proxy Manager, Traefik, HAProxy
+  - [x] Docker Buildx
+  - [x] Moby BuildKit
+  - [x] Docker multistage build
+  - [ ] Buildah, Podman, Skopeo
   - [ ] Mermaidjs
-  - [ ] Buildah, Podman, Skopeo, Moby BuildKit
-  - [ ] Layer 7 proxy: Ngnix Proxy Manager, Traefik, HAProxy
   - [ ] [P4](https://p4.org/)
   - [ ] [FreeRTOS](https://www.freertos.org/)
-- Maybe not this year:
-  - [ ] Get any these certificate about: MOS, CCNA, CCNP, VCA, CompTIA
 
 ## &#x1f4c8; GitHub Stats
 
@@ -81,7 +76,7 @@ I am always available on [![Facebook][1.1]][1.2], but you can also contact me vi
 <!-- links to your social media accounts -->
 
 [1.2]: https://www.facebook.com/hoang.himself/
-[2.2]: mailto:nhoang3b@gmail.com
+[2.2]: mailto:hoang.himself@gmail.com
 [3.2]: https://www.linkedin.com/in/hoang-himself/
 [4.2]: https://stackoverflow.com/users/15142953/
 
