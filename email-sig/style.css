@@ -1,0 +1,25 @@
+a,
+body,
+td {
+  color: rgb(60, 60, 59);
+}
+
+body {
+  font-family: Arial, sans-serif;
+  font-size: small;
+  text-align: left;
+}
+
+td + td {
+  border-left-style: solid;
+  border-left-width: 1px;
+  padding-left: 3px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+#degree {
+  margin-top: 8px;;
+}
