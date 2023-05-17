@@ -3,9 +3,7 @@
 
 My name is Hoàng and I'm an undergraduate Computer Science student at Ho Chi Minh University of Technology.
 
-Check out my profiles on [LinkedIn][3.1] and [Stack Overflow][4.1], as well as my [resume](./cv-1/resume.pdf).
-
-Ask me about anything [here](https://github.com/hoang-himself/hoang-himself/issues) or [![Mail][2.2]][2.1].
+Ask me about anything [here](https://github.com/hoang-himself/hoang-himself/issues).
 
 </div>
 
@@ -43,11 +41,6 @@ Ask me about anything [here](https://github.com/hoang-himself/hoang-himself/issu
 
 <!-- ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=0078D7) -->
 <!-- ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0078D4) -->
-
-[2.1]: mailto:hoang.himself@gmail.com
-[3.1]: https://www.linkedin.com/in/hoang-himself/
-[4.1]: https://stackoverflow.com/users/15142953/
-[2.2]: ./assets/mail-inbox-app.png
 
 <!-- Resources -->
 <!-- Icons: https://simple-icons.github.io/simple-icons-website -->
