@@ -9,12 +9,6 @@ Ask me about anything [here](https://github.com/hoang-himself/hoang-himself/issu
 
 ## 🔧 Technologies & Tool
 
-<a href="https://github.com/hoang-himself/hoang-himself">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=hoang-himself&show_icons=true&count_private=true&layout=compact&theme=radical&custom_title=Counting%20down%20until%20graduation" alt="hoang-himself's GitHub Stats" />
-</a>
-
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoang-himself&layout=compact&theme=radical" /> -->
-
 ![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
 ![C#](https://img.shields.io/badge/-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)
 ![Typescript](https://img.shields.io/badge/-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
@@ -39,13 +33,13 @@ Ask me about anything [here](https://github.com/hoang-himself/hoang-himself/issu
 ![Fedora](https://img.shields.io/badge/-Fedora-informational?style=flat&logo=fedora&logoColor=white&color=51A2DA)
 ![Debian](https://img.shields.io/badge/-Debian-informational?style=flat&logo=debian&logoColor=white&color=A81D33)
 
-<!-- ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=0078D7) -->
-<!-- ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0078D4) -->
+<div align="center">
+  <a href="https://github.com/hoang-himself/hoang-himself">
+    <img src="https://github-readme-stats.vercel.app/api?username=hoang-himself&show_icons=true&count_private=true&layout=compact&theme=radical&custom_title=Counting%20down%20until%20graduation" alt="hoang-himself's GitHub Stats" />
+  </a>
+</div>
 
 <!-- Resources -->
-<!-- Icons: https://simple-icons.github.io/simple-icons-website -->
-<!-- Icons: https://www.flaticon.com/ -->
+<!-- Shields: https://shields.io -->
+<!-- Icons: https://simpleicons.org -->
 <!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
