@@ -10,24 +10,29 @@ Ask me about anything [here](https://github.com/hoang-himself/hoang-himself/issu
 ## 🔧 Technologies & Tool
 
 ![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
-![C#](https://img.shields.io/badge/-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)
+![C#](https://img.shields.io/badge/-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=341394)
+![Javascript](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![Typescript](https://img.shields.io/badge/-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
-![Redis](https://img.shields.io/badge/-Redis-informational?style=flat&logo=redis&logoColor=white&color=DC382D)
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
+![MongoDB](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
+![Redis](https://img.shields.io/badge/-Redis-informational?style=flat&logo=redis&logoColor=white&color=DC382D)
 
 ![Git](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-informational?style=flat&logo=github&logoColor=white&color=181717)
+![Jenkins](https://img.shields.io/badge/-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=D24939)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0078D4)
 ![Railway](https://img.shields.io/badge/-Railway-informational?style=flat&logo=railway&logoColor=white&color=0B0D0E)
 ![Heroku](https://img.shields.io/badge/-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)
+
+![Podman](https://img.shields.io/badge/-Podman-informational?style=flat&logo=podman&logoColor=white&color=892CA0)
+![Buildah](https://img.shields.io/badge/-Buildah-informational?style=flat&logo=buildah&logoColor=white&color=FFCC00)
+![Skopeo](https://img.shields.io/badge/-Skopeo-informational?style=flat&logo=skopeo&logoColor=white&color=2A72AC)
+![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 
 ![PowerShell](https://img.shields.io/badge/-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=5391FE)
 ![Bash](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
-
-![Buildah](https://img.shields.io/badge/-Buildah-informational?style=flat&logo=buildah&logoColor=white&color=FFCC00)
-![Podman](https://img.shields.io/badge/-Podman-informational?style=flat&logo=podman&logoColor=white&color=892CA0)
-![Skopeo](https://img.shields.io/badge/-Skopeo-informational?style=flat&logo=skopeo&logoColor=white&color=2A72AC)
-![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 
 ![Windows](https://img.shields.io/badge/-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
 ![Fedora](https://img.shields.io/badge/-Fedora-informational?style=flat&logo=fedora&logoColor=white&color=51A2DA)
