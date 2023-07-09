@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hi there <img src="./assets/wave.gif" width="30px"></h1>
 
-My name is Hoàng and I'm an undergraduate Computer Science student at Ho Chi Minh University of Technology.
+My name is Hoàng and I'm a fresh Computer Science graduate at Ho Chi Minh University of Technology.
 
 Ask me about anything [here](https://github.com/hoang-himself/hoang-himself/issues).
 
