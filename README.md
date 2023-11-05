@@ -7,12 +7,27 @@ Ask me about anything [here](https://github.com/hoang-himself/hoang-himself/issu
 
 </div>
 
-## 🔧 Technologies & Tool
+## 🔧 Favorite Technologies & Tool
 
+![.NET](https://img.shields.io/badge/-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=512BD4)
+![Django](https://img.shields.io/badge/-Django-informational?style=flat&logo=django&logoColor=white&color=092E20)
+![NestJS](https://img.shields.io/badge/-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=E0234E)
+![Vite](https://img.shields.io/badge/-Vite-informational?style=flat&logo=vite&logoColor=white&color=646CFF)
+![Svelte](https://img.shields.io/badge/-Svelte-informational?style=flat&logo=svelte&logoColor=white&color=FF3E00)
+![UnoCSS](https://img.shields.io/badge/-UnoCSS-informational?style=flat&logo=unocss&logoColor=white&color=333333)
+![Playwright](https://img.shields.io/badge/-Playwright-informational?style=flat&logo=playwright&logoColor=white&color=2EAD33)
+
+![C#](https://img.shields.io/badge/-C%23-informational?style=flat&logo=csharp&logoColor=white&color=341394)
 ![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
-![C#](https://img.shields.io/badge/-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=341394)
 ![Javascript](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![Typescript](https://img.shields.io/badge/-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
+![Lua](https://img.shields.io/badge/-Lua-informational?style=flat&logo=lua&logoColor=white&color=2C2D72)
+![F#](https://img.shields.io/badge/-F%23-informational?style=flat&logo=fsharp&logoColor=white&color=378BBA)
+![Scala](https://img.shields.io/badge/-Scala-informational?style=flat&logo=scala&logoColor=white&color=378BBA)
+![Purescript](https://img.shields.io/badge/-Purescript-informational?style=flat&logo=purescript&logoColor=white&color=DC322F)
+![HTML5](https://img.shields.io/badge/-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
+![NativeScript](https://img.shields.io/badge/-NativeScript-informational?style=flat&logo=nativescript&logoColor=white&color=65ADF1)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
@@ -25,10 +40,11 @@ Ask me about anything [here](https://github.com/hoang-himself/hoang-himself/issu
 ![Railway](https://img.shields.io/badge/-Railway-informational?style=flat&logo=railway&logoColor=white&color=0B0D0E)
 ![Heroku](https://img.shields.io/badge/-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=430098)
 
+![Ansible](https://img.shields.io/badge/-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=EE0000)
 ![Podman](https://img.shields.io/badge/-Podman-informational?style=flat&logo=podman&logoColor=white&color=892CA0)
+![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 ![Buildah](https://img.shields.io/badge/-Buildah-informational?style=flat&logo=buildah&logoColor=white&color=FFCC00)
 ![Skopeo](https://img.shields.io/badge/-Skopeo-informational?style=flat&logo=skopeo&logoColor=white&color=2A72AC)
-![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 
 ![PowerShell](https://img.shields.io/badge/-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=5391FE)
 ![Bash](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
